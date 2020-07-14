@@ -4,7 +4,7 @@ A web developer with a passion for human-centered design. My goal is to build pr
 
 - 🔭 I’m currently working on Chatbots with Dialogflow 
 - 👯 I’m looking to collaborate on anything, just hit me up!
-- 📫 You can talk to me on twitter[twitter.com/marcelimxo]
+- 📫 You can talk to me on [twitter](twitter.com/marcelimxo)
 - 😄 Pronouns: She/her and They/them
 
 <!--
